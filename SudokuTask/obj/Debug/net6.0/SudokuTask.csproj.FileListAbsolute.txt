@@ -1,0 +1,15 @@
+C:\Users\FDE\source\repos\SudokuTask\SudokuTask\bin\Debug\net6.0\SudokuTask.exe
+C:\Users\FDE\source\repos\SudokuTask\SudokuTask\bin\Debug\net6.0\SudokuTask.deps.json
+C:\Users\FDE\source\repos\SudokuTask\SudokuTask\bin\Debug\net6.0\SudokuTask.runtimeconfig.json
+C:\Users\FDE\source\repos\SudokuTask\SudokuTask\bin\Debug\net6.0\SudokuTask.dll
+C:\Users\FDE\source\repos\SudokuTask\SudokuTask\bin\Debug\net6.0\SudokuTask.pdb
+C:\Users\FDE\source\repos\SudokuTask\SudokuTask\obj\Debug\net6.0\SudokuTask.csproj.AssemblyReference.cache
+C:\Users\FDE\source\repos\SudokuTask\SudokuTask\obj\Debug\net6.0\SudokuTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FDE\source\repos\SudokuTask\SudokuTask\obj\Debug\net6.0\SudokuTask.AssemblyInfoInputs.cache
+C:\Users\FDE\source\repos\SudokuTask\SudokuTask\obj\Debug\net6.0\SudokuTask.AssemblyInfo.cs
+C:\Users\FDE\source\repos\SudokuTask\SudokuTask\obj\Debug\net6.0\SudokuTask.csproj.CoreCompileInputs.cache
+C:\Users\FDE\source\repos\SudokuTask\SudokuTask\obj\Debug\net6.0\SudokuTask.dll
+C:\Users\FDE\source\repos\SudokuTask\SudokuTask\obj\Debug\net6.0\refint\SudokuTask.dll
+C:\Users\FDE\source\repos\SudokuTask\SudokuTask\obj\Debug\net6.0\SudokuTask.pdb
+C:\Users\FDE\source\repos\SudokuTask\SudokuTask\obj\Debug\net6.0\SudokuTask.genruntimeconfig.cache
+C:\Users\FDE\source\repos\SudokuTask\SudokuTask\obj\Debug\net6.0\ref\SudokuTask.dll
